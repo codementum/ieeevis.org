@@ -24,7 +24,7 @@ vibrant array of symposia that share our week.  Bring your
 imagination, your data, your problems, your solutions, your research,
 insights, experience, and enthusiasm.
 
-Test change!
+Test change! 2
 
 VIS 2017 General Chair  
 James Ahrens, Los Alamos National Laboratory
